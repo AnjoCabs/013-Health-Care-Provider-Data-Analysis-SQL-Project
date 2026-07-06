@@ -1,11 +1,13 @@
 # 013-Health-Care-Provider-Data-Analysis-SQL-Project
 
 🏥 Hospital Patient & Healthcare Analytics Using SQL
+
 📌 Project Overview
 
 This project demonstrates SQL-based exploratory data analysis (EDA) on a hospital management dataset. The objective is to analyze patient visits, healthcare revenue, provider performance, insurance coverage, patient satisfaction, referral patterns, and operational efficiency using real-world business questions.
 
 🎯 Project Objectives
+
 Analyze patient volume and hospital growth.
 Evaluate departmental and provider performance.
 Measure hospital revenue and insurance contributions.
@@ -17,6 +19,7 @@ Understand referral sources and patient demographics.
 Generate healthcare KPIs for operational decision-making.
 
 📊 Business Questions Solved
+
 👥 Patient Volume & Growth Analysis
 
 1. Monthly patient visits
@@ -111,5 +114,6 @@ Identifies treatment areas requiring quality improvement.
 Highlights departments that may need operational improvements or additional resources.
 
 ⭐ Key Takeaways
+
 
 This project demonstrates how SQL can transform healthcare data into meaningful business insights that improve patient care, financial management, and operational efficiency. Through multi-table joins, conditional aggregations, subqueries, KPI reporting, and healthcare-focused analytics, it showcases practical SQL skills applicable to Healthcare Data Analyst, Business Intelligence Analyst, Data Analyst, and SQL Developer roles.
